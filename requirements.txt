@@ -1,0 +1,16 @@
+pandas 
+numpy
+requests
+
+matplotlib
+seaborn 
+plotly
+
+
+black
+pylint
+flake8
+
+Ipython
+
+# mlflow
